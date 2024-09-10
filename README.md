@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asabe Dawudu
-- 👀 I’m interested in AI, machine learning, big data and the list goes on
+- 👀 I’m interested in AI, machine learning, big data analytics and emerging technologies
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me : asabe.yunana@gmail.com
 
